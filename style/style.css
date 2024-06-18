@@ -293,7 +293,7 @@ span {
 }
 
 .rodape a {
-    background-image: url('/assets/seta-para-cima.png');
+    background-image: url('../assets/seta-para-cima.png');
     display: inline-block;
     position: absolute;
     width: 60px;
